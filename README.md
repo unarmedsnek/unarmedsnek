@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F7D9E3&height=230&section=header&text=Emilijus%20Kanapeckas&fontSize=55&fontColor=2D2D2D&fontAlignY=40" />
 </p>
 
-<h3 align="center">🚀 Full-Stack Developer • Software Engineering Student • Leipzig</h3>
+<h3 align="center">🚀 Full-Stack Developer • Computer Science Student • Leipzig</h3>
 
 <p align="center">
   <em>Building modern, practical software that solves real problems</em>
